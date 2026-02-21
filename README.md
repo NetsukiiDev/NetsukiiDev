@@ -26,9 +26,13 @@ npm install a-life
 
   <h3>GitHub Stats</h3>
 
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=NetsukiiDev&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
-  </picture>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=NetsukiiDev&hide_progress=false&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni" />
+</picture>
+
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetsukiiDev&layout=compact&hide=glsl,batchfile&hide_title=true&hide_border=true&border_radius=15&theme=omni" />
+</picture>
 </div>
 
 <br>
