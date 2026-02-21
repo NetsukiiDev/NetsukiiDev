@@ -26,19 +26,21 @@ npm install a-life
 
   <h3>GitHub Stats</h3>
 
-<picture>
-  <img
-    alt="GitHub Stats"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NetsukiiDev&amp;theme=github_dark"
-  />
-</picture>
+  <picture>
+    <img
+      alt="GitHub Stats"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NetsukiiDev&amp;theme=github_dark"
+    />
+  </picture>
 
-<picture>
-  <img
-    alt="Productive Time"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NetsukiiDev&amp;theme=github_dark&amp;utcOffset=1"
-  />
-</picture>
+  <picture>
+    <img
+      alt="Productive Time"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NetsukiiDev&amp;theme=github_dark&amp;utcOffset=1"
+    />
+  </picture>
+
+  <div style="height: 20px;"></div>
 
 <br>
 <p align="center">
